@@ -1,0 +1,8 @@
+mediapipe
+opencv-python
+viam-sdk
+numpy<2.0.0
+pandas
+tqdm
+torch
+
